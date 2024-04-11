@@ -19,14 +19,14 @@ export const NavbarLinks = [
     link: "/blogs",
   },
   {
-    name: "E-commerce",
+    name: "best places",
     link: "/best-places",
   },
 ];
 
 const DropdownLinks = [
   {
-    name: "Our Services",
+    name: "E-commerce",
     link: "/#services",
   },
   {
