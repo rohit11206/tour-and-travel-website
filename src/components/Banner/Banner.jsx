@@ -25,7 +25,7 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-3xl sm:text-4xl font-bold"
                 >
-                  Explore all corners of The world with us
+                  Explore INDIA  with us
                 </h1>
                 <p
                   data-aos="fade-up"
