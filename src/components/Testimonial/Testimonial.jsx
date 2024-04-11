@@ -4,19 +4,19 @@ import Slider from "react-slick";
 const testimonialData = [
   {
     id: 1,
-    name: "Samuel",
+    name: "ALOKIT MISHRA",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 1,
-    name: "John Doe",
+    name: "ROHIT CHAUCHAN",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 1,
-    name: "Smith",
+    name: "TAMANNA",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
     img: "https://picsum.photos/103/103",
   },
