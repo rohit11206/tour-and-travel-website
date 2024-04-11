@@ -19,7 +19,7 @@ export const NavbarLinks = [
     link: "/blogs",
   },
   {
-    name: "Best Places",
+    name: "E-commerce",
     link: "/best-places",
   },
 ];
@@ -30,7 +30,7 @@ const DropdownLinks = [
     link: "/#services",
   },
   {
-    name: "Top Brands",
+    name: "Ticket portal",
     link: "/#mobile_brands",
   },
   {
